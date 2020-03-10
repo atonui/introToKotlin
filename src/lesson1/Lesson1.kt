@@ -9,7 +9,7 @@ fun main() {
 //    you can declare variables in Kotlin using the val and var keywords
     //Immutable variable i.e cannot change
 //    implicit type inference
-    val name = "John Doe"
+    val name = "John Doe" //val cannot be changed later i.e is constant
     var language = "Kotlin"
 
     println(name)
